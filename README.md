@@ -31,3 +31,6 @@ And back to Manifest.xml
         
         // replace by it
         android:Icon="@mipmap/ic_todolist"
+        
+   ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_icon/main/manifest.png)     
+   
