@@ -36,3 +36,6 @@
         
    ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_icon/main/manifest.png)     
    
+* then run the app, the icon shows itself.
+
+   ![](https://raw.githubusercontent.com/QueenieCplusplus/Android_Review_1_icon/main/icon%20show.png)
