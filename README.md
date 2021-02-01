@@ -22,9 +22,11 @@
 
 ![](https://github.com/QueenieCplusplus/Android_Review_1_icon/raw/main/icon8.png)
 
-Remember to remove the main/res/mipmap/xxxx.xml 
+* Remember to remove the main/res/mipmap/xxxx.xml 
 
-And back to Manifest.xml 
+  ![](https://github.com/QueenieCplusplus/Android_Review_1_icon/raw/main/delete.png)
+
+* And back to Manifest.xml 
 
         // remove it
         android:Round_Icon="@mipmap/ic_todolist_round"
